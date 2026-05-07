@@ -1,5 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Mario Hernandez Alegre!");
+        System.out.println("Hector Martinez Cabedo");
+        System.out.println("ejercicio 7");
+        System.out.println("Ejercicio 8b");
     }
 }
